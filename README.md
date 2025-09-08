@@ -11,6 +11,14 @@ A simple Python GUI tool to batch rename files in a directory by replacing a spe
 - User-friendly interface built with Tkinter
 - Error handling and completion messages
 
+## Input Fields
+
+The application consists of three input fields:
+
+1. **Directory**: The path to the folder containing the files you want to rename in bulk.
+2. **Text to Change**: The word or phrase in the filenames that you want to replace.
+3. **Replacement Text**: The new word or phrase that will replace the old text in the filenames.
+
 ## Usage
 
 1. **Run the application:**
